@@ -46,6 +46,6 @@ As a user of the application,you will be able to :
 - Non 
 [Go Back to the top](#vinc-ventures)
 ## Authors Info
-Linked - [Jane Njoroge ](https://www.linkedin.com/in/zachary-ndung-u-85023a201/)
+Linked - [Jane Njoroge ](https://www.linkedin.com/in/Wangui-njorog-e-85353a201/)
 [Go Back to the top](#vinc-ventures)
 
