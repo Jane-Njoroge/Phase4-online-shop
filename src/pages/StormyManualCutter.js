@@ -105,7 +105,7 @@ const StormyManualCutter = () => {
         }}
         onSubmit={({ username, checked, phonenumber, delivery, note }) => {
           console.log(username, checked, phonenumber, delivery, note);
-          setIsSubmitting(true);
+          // setIsSubmitting(true);
           axios
             .post("https://node-email-ug9d.onrender.com/api/sendemail", {
               username: username,
@@ -118,7 +118,7 @@ const StormyManualCutter = () => {
               console.log(error);
             });
           setTimeout(() => {
-            setIsSubmitting(false);
+          //   setIsSubmitting(false);
           }, 1000);
         }}
         loadingText={"Submitting Order"}
