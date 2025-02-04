@@ -28,7 +28,7 @@ As a user of the application,you will be able to :
  * Access to internet
  ### Installation Process
  ****
-* Clone to this repo : git clone https://github.com/Zackius/vinc-vent-frontend.git
+* Clone to this repo : git@github.com:Jane-Njoroge/Phase4-online-shop.git
 * Unzip the downloaded files in a folder of choice.
 * Open the appliction with your preffered IDE.
 * Run npm install to install ract packages.
