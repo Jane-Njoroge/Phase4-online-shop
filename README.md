@@ -1,5 +1,5 @@
 # Vinc Ventures 
- ## By Zacharia Kamau 
+ ## By Jane Njoroge 
 ## Screenshot
  ![image](./src/img/Screenshot%20from%202023-02-24%2015-14-50.png)
  ## Table of Content
@@ -46,6 +46,6 @@ As a user of the application,you will be able to :
 - Non 
 [Go Back to the top](#vinc-ventures)
 ## Authors Info
-Linked - [Zacharia Kamau Ndung'u ](https://www.linkedin.com/in/zachary-ndung-u-85023a201/)
+Linked - [Jane Njoroge ](https://www.linkedin.com/in/zachary-ndung-u-85023a201/)
 [Go Back to the top](#vinc-ventures)
 
