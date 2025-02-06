@@ -3,8 +3,8 @@ import Sidebar from "./components/Sidebar";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import StarterHeader from "./components/StarterHeader";
-import LoginButton from "./components/LoginButton";
-import RegisterButton from "./components/RegistertButton";
+// import LoginButton from "./components/LoginButton";
+// import RegisterButton from "./components/RegistertButton";
 // import ToiletRack from "./pages/ToiletRack/ToiletRack";
 import {
   Home,
@@ -24,8 +24,8 @@ function App() {
       <StarterHeader />
       <Header />
       <Cards />
-      <LoginButton/>
-      <RegisterButton/>
+      {/* <LoginButton/>
+      <RegisterButton/> */}
       <Routes>
         <Route path="/" element={<Home />}>
           {" "}

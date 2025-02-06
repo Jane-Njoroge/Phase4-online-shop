@@ -71,11 +71,11 @@ const CheckoutForm = () => {
         </div>
         <div class="flex flex-wrap  mb-4">
         <div class="w-full md:w-1/2 px-3 mb-6 md:mb-0">
-      <label class="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2" for="grid-company-name">
-Postcode /ZIP *
-      </label>
-      <input class="appearance-none block w-full bg-gray-200 text-gray-700 border  rounded-2xl  py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white" id="grid-postcode" type="text"/>
-        </div>
+    <label class="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2" for="grid-password">
+        Password
+    </label>
+    <input class="appearance-none block w-full bg-gray-200 text-gray-700 border rounded-2xl py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white" id="grid-password" type="password" />
+</div>
         <div class="w-full md:w-1/2 px-3 mb-6 md:mb-0">
       <label class="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2" for="grd-country">
        Phone Number 
@@ -91,11 +91,11 @@ Email
       </label>
       <input class="appearance-none block w-full bg-gray-200 text-gray-700 border  rounded-2xl  py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white" id="grid-email" type="email" placeholder='email' />
         </div>
-        <div class="w-full md:w-1/8 px-3 mb-6 md:mb-0">
-      <label class="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2" for="grd-country">
- Additonal Information 
-      </label>
-      <textarea class="appearance-none block w-full bg-gray-200 text-gray-700 border  rounded-2xl  py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white" id="grid-first-name" type="text-area" placeholder="Pleace add any other inforamtion that will help us on delivering your product on time.  "/>
+        <div>
+        <div class="text-center p-4 ">
+        <button className='bg-yellow-400 w-[20vh] md:w-[40vh] p-4 rounded-2xl font-bold  text-xl'>Submit</button>
+        </div>
+      {/* <textarea class="appearance-none block w-full bg-gray-200 text-gray-700 border  rounded-2xl  py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white" id="grid-first-name" type="text-area" placeholder="Pleace add any other inforamtion that will help us on delivering your product on time.  "/> */}
           </div>
    
         </section>
