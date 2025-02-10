@@ -25,7 +25,7 @@ const Header = () => {
       <div className="container mx-auto flex items-center  justify-between h-full ">
         <Link to={"/"}>
           <div>
-            <img className="h-[50px] " src={Logo} alt="Glamour glare" />
+            <img className="h-[50px] " src={Logo} alt="Vinc Ventures" />
           </div>
         </Link>
         <div className="invisible  md:visible">
